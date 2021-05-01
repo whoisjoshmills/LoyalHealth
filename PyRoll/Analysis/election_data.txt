@@ -1,0 +1,10 @@
+Election Results
+-----------------------
+Total votes - 3521001
+-----------------------
+Khan - 63.00001050837532%, 2218231
+Correy - 19.999994319797125%, 704200
+Li - 13.999996023857989%, 492940
+O'Tooley - 2.999999147969569%, 105630
+-----------------------
+The winner is Khan with 2218231 votes and a percentage of 63.00001050837532% get out of here O'tooley/n
